@@ -1,0 +1,6 @@
+1%%%Which of these is a Creational design Pattern?%%%State%%%Strategy%%%Factory Method%%%Adapter%%%c
+2%%%The language spoken by the people by Pakistan is?%%%Hindi%%%Sindhi%%%Palaun%%%Nauraun%%%b
+3%%%What is the capital of India?%%%Delhi%%%Honnavar%%%Bangalore%%%Digboi%%%a
+4%%%What is 3+3?%%%six%%%seven%%%eight%%%nine%%%a
+5%%%Which among these is not a primary color?%%%Red%%%Blue%%%Yellow%%%Pink%%%d
+6%%%What is the capital of Karnataka?%%%Mysore%%%Karkala%%%Bangalore%%%Belagavi%%%c

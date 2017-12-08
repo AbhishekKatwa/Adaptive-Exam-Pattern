@@ -1,0 +1,4 @@
+1%%%Which of these is a Creational design Pattern?%%%State%%%Strategy%%%Factory Method%%%Adapter%%%c
+2%%%who is the 44th president of USA?%%%Barack Obama%%%Donald Trump%%%Ronald Keagan%%%Jeffrey Archer%%%a
+3%%%what is the capital of Netherlands?%%%Oslo%%%Amsterdam%%%Frankfurt%%%Berlin%%%b
+4%%%Who wrote Romeo & Juliet?%%%Wordswoth%%%Keats%%%Shakespeare%%%Jeffrey Archer%%%c
